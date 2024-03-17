@@ -8,7 +8,7 @@ export default function AppLogotype({ className }: { className?: string }) {
       className={cn('h-10 text-black dark:text-white', className)}
       xmlns="http://www.w3.org/2000/svg"
     >
-      <title>SquareSense</title>
+      <title>SquareGenAI</title>
       <g clipPath="url(#clip0_4_4)">
         <path
           d="M63.1292 0.5H13.0672C6.12216 0.5 0.5 6.10748 0.5 13.0344V62.9656C0.5 69.8925 6.12216 75.5 13.0672 75.5H63.1292C70.0742 75.5 75.6964 69.8925 75.6964 62.9656V13.0344C75.6964 6.10748 70.0742 0.5 63.1292 0.5ZM62.013 57.9354C62.013 60.1207 60.2354 61.8936 58.0444 61.8936H18.1519C15.9609 61.8936 14.1833 60.1207 14.1833 57.9354V18.1058C14.1833 15.9206 15.9609 14.1476 18.1519 14.1476H58.0858C60.2768 14.1476 62.0544 15.9206 62.0544 18.1058V57.9354H62.013Z"
